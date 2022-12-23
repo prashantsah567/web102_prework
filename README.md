@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://im.ezgif.com/tmp/ezgif-1-0483a01e42.gif
+![image](https://user-images.githubusercontent.com/82275480/209407718-170a2cc0-ed9f-4965-8899-888222507952.png)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif
 <!-- Recommended tools:
