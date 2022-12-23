@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://capture.dropbox.com/sOixQOp5x9aFlmT4
+https://im.ezgif.com/tmp/ezgif-1-0483a01e42.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif
 <!-- Recommended tools:
