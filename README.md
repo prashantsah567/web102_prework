@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Prashant Sah
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 20 hours spent in total
 
 ## Required Features
 
@@ -17,16 +17,16 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Colors are updated to make the website more attractive and user friendly
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://capture.dropbox.com/sOixQOp5x9aFlmT4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ezgif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +34,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+During the development of this app several javascript function and features were implement including reduce, filter, spread, DOM manipulation, creating HTML elements dynamically
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [prashant sah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
